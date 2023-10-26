@@ -1,0 +1,23 @@
+header{
+    height: 40px;
+ 
+}
+.close{
+    width: 100px;
+    height: 40px;
+
+}
+.certificate{
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+.main-certificate{
+    width: 70%;
+    height: auto;
+    border: 2px solid red;
+}
+.wb-certificate{
+    height: 600px;
+    border: 2px solid black;
+}
